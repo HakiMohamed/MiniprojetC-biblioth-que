@@ -60,6 +60,7 @@ void Affichage() {
         printf("Titre : %s, Auteur : %s, Prix : %.2f Dh, Quantité : %d\n",
                stock[i].titre, stock[i].auteur, stock[i].prix, stock[i].quantite);
     }
+    
 }
 
 
